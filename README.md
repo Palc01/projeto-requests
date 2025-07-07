@@ -4,13 +4,13 @@ Trabalho de Algoritimos
 
 Este projeto demonstra o uso da biblioteca `requests` para consumir dados de uma API pública.
 
-## 📌 Conteúdo
+## Conteúdo
 
 - `main.py`: código principal que faz requisição `GET` à JSONPlaceholder e exibe ID, nome e email dos usuários.
 - `requirements.txt`: dependências necessárias.
 - `resultado_exemplo.txt`: exemplo de saída no terminal.
 
-## 🚀 Como executar
+## Como executar
 
 ```bash
 git clone https://github.com/Palc01/solicitacoes-de-projeto.git
